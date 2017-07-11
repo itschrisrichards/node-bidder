@@ -1,0 +1,14 @@
+{
+  "name": "node-bidder",
+  "version": "1.0.0",
+  "description": "Node.js OpenRTB Bidder",
+  "main": "bidder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Richards",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
